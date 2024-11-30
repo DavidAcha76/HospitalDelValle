@@ -7770,19 +7770,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kiurt\\.nuget\\packages\\": {}
+    "C:\\Users\\WINDOWS 11\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kiurt\\Documents\\GitHub\\HospitalDelValle\\Hospital del Valle\\Hospital del Valle.csproj",
+      "projectUniqueName": "C:\\Users\\WINDOWS 11\\OneDrive\\Documentos\\GitHub\\HospitalDelValle\\Hospital del Valle\\Hospital del Valle.csproj",
       "projectName": "Hospital del Valle",
-      "projectPath": "C:\\Users\\Kiurt\\Documents\\GitHub\\HospitalDelValle\\Hospital del Valle\\Hospital del Valle.csproj",
-      "packagesPath": "C:\\Users\\Kiurt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kiurt\\Documents\\GitHub\\HospitalDelValle\\Hospital del Valle\\obj\\",
+      "projectPath": "C:\\Users\\WINDOWS 11\\OneDrive\\Documentos\\GitHub\\HospitalDelValle\\Hospital del Valle\\Hospital del Valle.csproj",
+      "packagesPath": "C:\\Users\\WINDOWS 11\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\WINDOWS 11\\OneDrive\\Documentos\\GitHub\\HospitalDelValle\\Hospital del Valle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kiurt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\WINDOWS 11\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7856,7 +7856,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
